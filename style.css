@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+}
+
+
+.increment {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.decrement {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    cursor: pointer;
+}
